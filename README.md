@@ -20,7 +20,6 @@ The Simon Game starts when the player presses any key. The game will light up on
 - HTML5
 - CSS3
 - JavaScript (jQuery)
-- Google Fonts
 
 ## Installation
 
